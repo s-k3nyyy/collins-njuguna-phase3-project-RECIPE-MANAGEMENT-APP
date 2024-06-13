@@ -6,7 +6,7 @@ The Recipe Manager CLI is a powerful command-line tool for managing recipes, use
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone <git@github.com:s-k3nyyy/collins-njuguna-phase3-project-RECIPE-MANAGEMENT-APP.git>
    ```
 
 ### Navigate to the project directory:
